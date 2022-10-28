@@ -1,4 +1,6 @@
-# Atmega-SNES-IGR - In Game REST for SNES / Super Famicom using arduino 168P / 328P
+# Atmega-SNES-IGR
+#In Game RESET for SNES / Super Famicom using arduino 168P / 328P
+
 ## **Reset combination L + R + SEL (instant reset)** Developed on a cheap clone!
 
 SNES 6 wires. 
