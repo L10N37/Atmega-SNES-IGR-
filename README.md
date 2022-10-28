@@ -9,5 +9,5 @@ SNES 6 wires.
 -  D4 to Low/ idle side of reset
  -   D3 to controller latch
   -    D2 to controller clock
-   -       A0 (19/PC0) to Controller serial.
-      -       Gnd to Ground
+        -  A0 (19/PC0) to Controller serial.
+           - Gnd to Ground
