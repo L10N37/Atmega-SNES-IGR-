@@ -1,3 +1,4 @@
+![alt text](assets/images/InstallationIGRSNES.png)
 # Atmega-SNES-IGR
 In Game RESET for SNES / Super Famicom using arduino 168P / 328P
 
