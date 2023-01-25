@@ -34,7 +34,9 @@ hours to write.
 
 
 
-Issue found: 8BitDo Bluetooth dongle when pairing with controller after a disconnect will trigger the combo when using an 8bitDo Pro2 controller (and possibly others...?)
+ # Issue found: 
+
+8BitDo Bluetooth dongle when pairing with controller after a disconnect will trigger the combo when using an 8bitDo Pro2 controller (and possibly others...?)
 
 I'd like to rewrite this to clear and write bits of a 16bit data type for the button inputs, then reference this against the value of a reset combo instead of using 3 bools.
 
