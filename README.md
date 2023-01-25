@@ -31,3 +31,15 @@ of the combo but adding any code drops that bit being
 ccaptured. There could be a a few early buttons 
 missing but it wasn't worth coding around. It took a few 
 hours to write.
+
+
+
+Issue found: 8BitDo Bluetooth dongle when pairing with controller after a disconnect will trigger the combo when using an 8bitDo Pro2 controller (and possibly others...?)
+
+I'd like to rewrite this to clear and write bits of a 16bit data type for the button inputs, then reference this against the value of a reset combo instead of using 3 bools.
+
+This would allow the reset combo to trigger only when the 3 buttons are pressed, if there was a 4th or 5th pressed it wouldn't trigger.
+
+This could help, i suspect the dongle temporarily presses every button down simulataneously on connection.
+
+It doesn't cause issues, but if you were playing , then paused, walked away long enough to let the controller self power off, then reconnected, you'd get a reset.
