@@ -45,3 +45,5 @@ This would allow the reset combo to trigger only when the 3 buttons are pressed,
 This could help, i suspect the dongle temporarily presses every button down simulataneously on connection.
 
 It doesn't cause issues, but if you were playing , then paused, walked away long enough to let the controller self power off, then reconnected, you'd get a reset.
+
+# 8bit Do updates for controller and dongles as of 29/01/23 no longer exhibit this fault. 
