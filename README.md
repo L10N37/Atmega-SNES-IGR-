@@ -2,7 +2,9 @@
 # Atmega-SNES-IGR
 In Game RESET for SNES / Super Famicom using arduino 168P / 328P
 
-## Reset combination L + R + SEL (instant reset) Developed on a cheap clone!
+## Reset combination L + R + SEL (instant reset) Developed on a cheap clone! (latest version L + R + SEL + START)
+
+## Latest version also controls 50/60hz selection and CIC chip enable / disable along with IGR functions
 
 ##  6 wires 
 
