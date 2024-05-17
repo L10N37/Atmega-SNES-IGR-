@@ -32,7 +32,7 @@ It's not 100%. I was going to use Start as part
 of the combo but adding any code drops that bit being
 ccaptured. There could be a a few early buttons 
 missing but it wasn't worth coding around. It took a few 
-hours to write.
+hours to write. (fixed in V2 with ISR on change)
 
 
 
